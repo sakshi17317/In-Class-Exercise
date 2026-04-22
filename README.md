@@ -8,10 +8,12 @@ Understanding XML structure (tree, root, elements)
 Parsing XML using Python’s xml.etree.ElementTree
 Extracting metadata fields from the record
 Converting parsed data into a structured format using pandas
+
 🎯 Learning objectives
 Gain hands-on experience working with XML metadata
 Understand how Dublin Core represents dataset information
 Learn how to transform raw metadata into analyzable tabular data
+
 📂 Dataset
 
 The notebook uses a sample metadata record for a dataset titled “2025 Global Climate Data”.
